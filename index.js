@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 });
 
 // Define the port to listen on
-const port = 8080;
+const port = 3000;
 
 // Start the server
 app.listen(port, () => {
